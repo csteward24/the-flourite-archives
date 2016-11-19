@@ -1,17 +1,21 @@
-<<<<<<< HEAD
-body{background-color: #9e77ba}
+
+body{
+    background-color: #9e77ba
+}
+
 h1{
  color: #886989;
  margin: 5px;
  font-family: Times New Roman;
  font-size: 45px;
-=======
+}
+
 #message {
     margin: auto;
     width: 50%;
->>>>>>> 8179901f3e20bce5c51a0849dea9356d4779427c
+
 }
-h2{ 
+h2{
  color: #8d8af6;
  margin: 15px;
  font-family: Times New Roman;
@@ -36,6 +40,6 @@ a:hover {
  text-decoration: underline;
 }
 a:active {
- color: #8d8af6;   
+ color: #8d8af6;
  text-decoration: underline;
 }
