@@ -1,3 +1,38 @@
-#message {
-    margin: 0px 25% 0px 25%;
+body{background-color: #9e77ba}
+h1{
+ color: #886989;
+ margin: 5px;
+ font-family: Times New Roman;
+ font-size: 45px;
+}
+h2{ 
+ color: #8d8af6;
+ margin: 15px;
+ font-family: Times New Roman;
+ font-size: 38px
+}
+p{
+ color: #f2f2f6;
+ margin: 30px;
+ font-family: Times New Roman;
+ font-size: 16px;
+}
+a:link {
+ color: #8d8af6;
+ text-decoration: none;
+}
+
+a:visited {
+ color: #887a9e;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #f2f2f6;
+ text-decoration: underline;
+}
+
+a:active {
+ color: #8d8af6;   
+ text-decoration: underline;
 }
