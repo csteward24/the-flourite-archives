@@ -44,3 +44,7 @@ a:active {
  color: #8d8af6;
  text-decoration: underline;
 }
+
+li {
+    color: white;
+}
