@@ -21,17 +21,14 @@ a:link {
  color: #8d8af6;
  text-decoration: none;
 }
-
 a:visited {
  color: #887a9e;
  text-decoration: none;
 }
-
 a:hover {
  color: #f2f2f6;
  text-decoration: underline;
 }
-
 a:active {
  color: #8d8af6;   
  text-decoration: underline;
