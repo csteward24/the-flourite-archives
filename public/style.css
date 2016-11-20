@@ -62,10 +62,13 @@ a:active {
  color: #8d8af6;
  text-decoration: underline;
 }
-#blind:hover{
+a.blind:hover{
     text-decoration: none;
 }
 
 li {
     color: white;
+}
+::selection{
+    background: #000000;
 }
