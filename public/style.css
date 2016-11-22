@@ -1,12 +1,13 @@
 
 body{
-    background-color: #090c15
+    /*background-color: #090c15*/
+    background-color: #1f222e;
 }
 .header-cont {
     width:100%;
     position:fixed;
     top:0px;
-    background:#090c15;
+    background:#1f222e;
 
 }
 .header {
