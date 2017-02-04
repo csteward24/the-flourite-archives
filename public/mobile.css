@@ -1,7 +1,6 @@
-@media screen and (min-width: 700px) {
+@media screen and (max-width: 699px) {
 body{
-    /*background-color: #090c15*/
-    background-color: #1f222e;
+ background-color: #1f222e;
 }
 .header-cont {
     width:100%;
@@ -20,15 +19,16 @@ h1{
  color: #780c86;
  margin: 10px 0px;
  font-family: Verdana, Geneva, sans-serif;
-  font-size: 45px;
+  font-size: 275%;
+  text-align: center;
 }
 
 .message {
     margin: auto;
-    width: 50%;
+    width: 80%;
     clear: both;
-
 }
+
 h2{
  color: #780c3d;
  margin: 15px 17px;
@@ -42,7 +42,7 @@ h3{
 }
 
 p{
- color: #ffffff;
+ color: white;
  margin: 15px 30px;
  font-family: Verdana, Geneva, sans-serif;
  font-size: 18px;
@@ -70,8 +70,5 @@ a.blind:hover{
 
 li {
     color: white;
-}
-::selection{
-    background: #000000;
 }
 }
